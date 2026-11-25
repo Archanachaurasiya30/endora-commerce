@@ -23,7 +23,7 @@
   "panel.loading": "Loading payers…",
   "panel.error.load": "The payers could not be loaded.",
   "panel.error.write": "The change could not be saved.",
-  "panel.asBuyer.title": "Pay for this organization",
+  "panel.asBuyer.title": "Pays for this organization",
   "panel.asBuyer.empty": "No organization pays for this one.",
   "panel.asPayer.title": "This organization pays for",
   "panel.asPayer.empty": "This organization pays for no other.",
